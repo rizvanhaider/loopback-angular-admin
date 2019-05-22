@@ -29,7 +29,7 @@ After an installation the following users are created:
 - **Regular user**: Email: ```user@user.com```:, password ```user```
 
 Please note, at this moment there is no difference in permissions for admin users or regular users. This needs to change in the future!
-
+-----------------------------------
 ## Features and implemented projects
 
 - A LoopBack REST API with authentication enabled built on the [LoopBack Generator](https://www.npmjs.org/package/generator-loopback)
